@@ -3,7 +3,7 @@ This repository contains Machine Learning models applied to Human Resource analy
 - Salary prediction
 - Employee retention (attrition prediction)
 
-### 💼 Salary Prediction Using Machine Learning
+### 💼 PROJECT 1: Salary Prediction Using Machine Learning
 This project builds a Machine Learning model using **Linear Regression** to help the HR department predict employee salaries based on:
 - Years of experience
 - Written test score
@@ -11,7 +11,8 @@ This project builds a Machine Learning model using **Linear Regression** to help
 
 The model is trained using historical hiring data and used linear regression to predict salaries for new candidates.
 
-### Employee Retention Prediction (Classification)
+
+### PROJECT 2: 👥 Employee Retention Prediction (Classification)
 The objective of this project id to Predict whether an employee will leave the company using HR metrics such as:
 - Satisfaction level
 - Last evaluation score
